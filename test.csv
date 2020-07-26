@@ -1,0 +1,789 @@
+author,upvotes,body
+ImLuuk1,1,"**[Glide](https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8feade969af68c8f79c18e4aec74e0fefed0a4e5340e824b6e71f0b0a480e1b1.png)**
+
+**Class:** Demon Hunter
+
+**Card type:** Spell
+
+**Rarity:** Rare
+
+**Mana cost:** 4
+
+**Card text:** Shuffe your hand into your deck. Draw 4 cards. **Outcast:** Your opponent does the same.
+
+**Source:** [BasarCos Twitch Reveal](https://www.twitch.tv/basarcos?twitch5=0)
+
+---
+
+**[Card Library Link](https://playhearthstone.com/en-gb/cards/60153-glide?set=Scholomance-Academy)**
+
+Flavour Text:
+
+>    ""Come with me, and you'll see, a whole new hand of possibly the same cards."""
+Makkara126,1969,Wtf?
+klenner__,1640,So now I get punished for having card advantage vs aggro? Divine favor all over again.....
+idkLetMeUseThisApp,1410,Thought I was on r/customhearthstone for a second
+FieryGlacier,1194,This kills the handlock
+MahjongDaily,651,"This has got to a prime candidate for a nerf.  I don't even care if it's good or not, this will feel *so* bad to play against."
+Chimic27,576,"Blizzard 2015 - We don't make cards that disrupt the opponents game
+
+Blizzard 2020 - Just fuck his shit up"
+andrepo1999,401,I don't understand in what world this isn't going to be broken. You can use it to draw for 4 mana. And the outcast effect can just make your oponent lose card advantage without any counterplay
+ultrarotom,367,how did someone even come up with this idea?
+CaptainAlphaWalrus,304,Demon hunters really just gonna tell their opponents to re mulligan. Jesus.
+DaTimeWasta,267,How do you even evaluate this?!
+ziolxxx,227,Wow extreme hand disruption in hs? that's neat!
+Lepidoptria,212,"as a control player, im shaking and crying rn"
+Tamal_Kolkata,203,Wait... Opponent also shuffles their hand to their deck??? That's some next level disruption right there.
+Jaitnium,156,"I think DH's identity is just ""Destroyer of fun""."
+MiniMonkey876,154,"I created an account to say that this card makes me sad.
+
+I've just booked a day off work for the first time do I can play the expansion and have been working on refining my control warlock list.
+
+That this card will completely screw this or other control strategies makes me not want to play the game."
+therealflyingtoastr,108,The entire reason Divine Favor was nuked from orbit was because it punished the opponent for playing the game (drawing cards) while refilling an aggressive hand. Odd to see an even better version being prin... Oh wait it's Demon Hunter.
+justWeirdPete,104,Demon hunter's signature class mechanic is to piss off everyone with unfun bullshit
+Multi21,94,thanks i hate it
+TheOneWithALongName,89,"I have waited for this card since I started Hearthstone. It's also funny Illidan was originally planned to have the effect ""Both players discard 3 cards and draw 3 cards"""
+ImLuuk1,1,"**[Lorekeeper Polkelt](https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6c14a061649b47e234000b6138d326c59325362d15da74abaf7e5fce125ea29c.png)**
+
+**Class:** Neutral
+
+**Card type:** Minion
+
+**Rarity:** Legendary
+
+**Mana cost:** 4
+
+**Attack:** 4 **HP:** 5
+
+**Card text: Battlecry:** Reorder your deck from the highest Cost card to the lowest Cost card.
+
+**Source:** [Regiskillbin Video reveal](https://www.youtube.com/watch?v=fXoB1bbpqRk&feature=youtu.be&list=UUbt1SGMrWj5Q7TMXAfmTERQ)
+
+---
+
+**[Card Library Link](https://playhearthstone.com/en-us/cards/60278-lorekeeper-polkelt)**
+
+Flavour Text:
+
+>    quicksort [] = [] quicksort (x:xs) = quicksort small ++ (x : quicksort large) where small = [y | y <- xs, y <= x] large = [y | y <- xs, y > x]"
+ChaosOS,1701,Wild Holy Wrath paladin just got a boost - This+Holy Wrath while Shirvallah is in deck is 9 mana deal 25
+TheCrispiestSalsa,1415,Every day the lines between r/customhearthstone and reality blur more and more.
+MahjongDaily,736,"Won't this be disrupted by ""shuffle in"" mechanics, like [[Bad Luck Albatross]] or the Primes?"
+asian-zinggg,424,I no joke dropped my jaw seeing this card. This is insanely cool! I can't wait to see what ideas people come up with.
+,332,[deleted]
+CTRLALTWARRIOR,131,"This is gonna make several combo decks possible. It has the potential to be the next [[Hemet, Jungle Hunter]]."
+MahjongDaily,135,Now this will make for some interesting deckbuilding.  If you aim to play this guy on curve you wouldn't want anything more expensive than 5-6 mana.  Alternatively you could wait until the lategame and be guaranteed your big cards
+Normalg,96,Holy shit this is the most innovative neutral legendary since Archivist Elysiana and Zephrys the Great.
+PushEmma,69,"No more never lucky top decks!
+
+
+*draws Lorekeeper*
+
+
+Kripp: He JUST drew that?!"
+TheNightAngel,53,"Holy Wrath your opponent for 25 on turn 9!
+
+Or better yet, Lorekeeper on 4, draw Shirvallah and holy wrath for 20 on turn 5.
+
+(Wild only)"
+Derpachus,46,"Very powerful, but idk what deck this slots in, probably some form of combo druid in wild?"
+Nigogigogigolas,42,Holy son of a combo enabler
+mrgoodbytes8891,41,"Just thought of this too: Ysera Unleashed to put the portals in your deck, reorder so portals are on top... boom, 7 free dragons at once."
+JadenWasp,22,Now this is an awesome build around puzzle card.
+Tamal_Kolkata,20,Coolest deck building legendary of the set so far. And it’s neutral. Found my no-regret day one craft.
+ahavsb,18,"So I’m gonna comment any busted uses for this and anyone add comments if I forgot something.
+1. Shirvallah/molten giant to get holy wrath for guaranteed 25/20 damage.
+2. Quest warlock can grab malygos/alextrasza for free to otk if you have spells in hand already.
+3. Secret paladin, put secrets at the bottom of the deck so you don’t have to cry when you topdeck those pesky one mana secrets.
+4. Ramp heavy druids with cards like astral communion, not as sold on the astral communion part but the ramp aspect does sound pretty good to put innervates at the bottom.
+5. Rogue galakrond/ wondrous wand to get huge mana discounts (could also set up a malygos otk)
+6. Luna’s pocket galaxy is guaranteed to always draw bombs with huge discounts, especially good with luna stargazer.
+7.Literally any aggro deck to not topdeck useless one drops in the later turns
+8. Highlander hunter to guarantee drawing Dragonqueen Alexstrasza/ Dinotamer Brann?
+9.shudderwock shaman if for some reason your deck wants to guaranteed draw shudder soon.
+10.Zoo uses this later when out of steam to get Arch villain rafaam and gain value and late game?
+11. Any deck with n’zoth that wants to have an easy way of essentially tutoring him for next turn.
+12. (Edited) just saw the regis video and apparently giants will still be ordered at the top so some kind of deck that may want their giants consistently could use this (quest mage?)
+
+comment any other potential combos below!!"
+ShinVerus,17,Perfect-Curve-O-Matic.
+quacak,12,The new worst card in the game to play on Turn 4?
+Avedisride,12,I was just saying yesterday the biggest problem with Shudderwock shaman is you can't tutor Shudderwock. MY JAWS THAT BITE ARE BACK ON THE MENU BOYS
+Ju4nei,1079,"There's fun RNG, then there's bullshit RNG. Just make summons do 1 damage."
+crimson2509,461,I'm no expert but nat pagle doesn't seem very healthy for this mode when there's enough randomness in fights as it is
+Axle-f,323,Had this exact same thing happen to me when I was on top of the lobby. It's a fucking joke.
+lvl69Onix,248,"1. Summons should do 1 star worth of damage.
+
+2. Can we also address the much bigger problem that murlocs are wrecking the game and are vastly over tuned ?"
+Delda,178,"Was a great way to start my stream atleast, can only go upwards from there."
+Dastey,115,"As I wrote in another thread, damage has to be reduced. How they do it I don't really care but some options could be:
+
+* Damage from tokens / spawned mobs (maybe max 1 damage from each or even 0)
+
+* Damage cap (based on gold, tavern tier or round)
+
+* Higher health (preferably not this)
+
+* Literally anything
+
+In general I have had a much harder time climbing since pirates were introduced than any other patch. Whether I have reached my ceiling or it's just the insane amounts of RNG combined with me maybe playing 3 games a day average I can't really answer. But regardless or the reason the stupid amount of RNG is not funny"
+UnoriginalPenName,65,I love how everyone is pointing out what is wrong with Battlegrounds with well thought arguments like Blizzard ever listened to the community
+zeus9000125,27,"chest is a salt extracting machine, I would quit for a while if this bullshit happened to me"
+paladindan,15, r/WatchPeopleDieInside
+Gatekeeper1310,10,"Man, he got ship wrecked."
+popipok,7,I too like to hide my golden pirate ships in a chest.
+sakatimi,8,These things shouldnt happen
+LettuceBob55,7,This why I hate playing battlegrounds. Normal hearthstone is already very rng based but this is on another level.
+gijseltink,7,YEP BOAT
+lev237,8,"Haven't play BG for a while, could someone explain what exactly happened?"
+Lore86,8,I see they are bringing the ladder experience to battlegrounds.
+ShinePale,5,"I had almost this exact experience yesterday, except I was at 24 HP and they got exact lethal."
+Jokojabo,3,"I have little experience w battlegrounds lately. I played it today and got that chest pirate, played it out of curiosity, it took 3 rounds but I got a chest and it popped. It was a golden murloc tidecaller. I then thought ""ok this is basically useless and will never do anything""
+
+
+This is my second time seeing the chest.  Battlegrounds a joke lol"
+Sabot15,2,"This is why I don't do autochess.  Regular HS has enough bullshit to keep it fun and just barely tolerable at times.   Battlegrounds feels so out of your control.  Yeah, you can make strategic calls, but the general lack of ability to control what hero you get, what cards you get, what attacks what, and then this random bullshit... I honestly don't get the appeal of this game mode at all."
+YoungJump,3,YEP Boat
+ImLuuk1,1,"**[Brittlebone Destroyer](https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d6e0d3643be9326fce963742b9031621933f55f35bbf833106308cd5b2516d6f.png)**
+
+**Class:** Priest/Warlock
+
+**Card type:** Minion
+
+**Rarity:** Rare
+
+**Mana cost:** 4
+
+**Attack:** 3 **HP:** 3
+
+**Card text: Battlecry:** If your hero's Health changed this turn, destroy a minion.
+
+**Source:** [Tars Hearthstone Reveal](https://youtu.be/_o7Hgk7Uyxw)
+
+---
+
+**[Card Library Link](https://playhearthstone.com/en-gb/cards/59222-brittlebone-destroyer?set=Scholomance-Academy)**
+
+Flavour Text:
+
+>Broke many a leg in drama class."
+FieryGlacier,1164,Vilespine Slayer is back
+deadlyavo1,753,6 mana destroy a minion and use your hero power doesn’t seem awful.
+ziolxxx,186,Very good targeted removal for both warlock and priest.
+ZelZal98,145,This is encourages Priest and Warlock to play without Galakrond.
+BrokenTeddy,123,That's a really clever effect and quite a good card at that.
+Zewittig,113,This card sponsored by r/neverbrokeabone
+Jane_Romero,53,This card's design is 300 IQ
+egbs2,45,more removal for priest oh no NotLikeThis
+asian-zinggg,30,"I am curious if this gets run in priest or if you just let Galakrond get it for you? Priest already has a lot of removal. Brittlebone is decent, but with cards like Shadow Word Death and Time Rip I don't see how it makes the cut. Aeon Reaver also never made the cut and it's a removal card too."
+Lordbricktrick,24,That’s really clever way for the two classes to get this
+AcrobaticNegotiation,12,"So in priest, its a ""6 mana, destroy a minion, restore 2 health, and summon a 3/3"" and in Warlock its a, ""6 mana, destroy a minion, take 2 damage, draw a card, and summon a 3/3/""
+
+
+Seems busted."
+SV-Feedback,11,THESE ARE SO COOL AAAAAAH HOLY SHIT I LOVE DUAL CLASS CARDS
+RagnarXD,11,This cards is nuts. Looks like priest is still gonna be strong. As a warlock card i think keli'dan is better.
+TheOwly,9,This will see play.
+,5,[deleted]
+peter_the_panda,6,Thank god Priest gets another cheap removal option...I was wondering how that class was going to survive with only 16 other cards in the deck which accomplish the same thing
+LittleBalloHate,6,"I am 100% on board a control type priest deck and my problems with Priest consistent exactly and entirely with their Galakrond. 
+
+I'm a control player myself, and cards like this really excite me. But the enjoyment I get out of playing control is judiciously deploying my resources. Should I play this on turn 4 for tempo, or do I wait until turn 6? On turn 6 do I just kill the first thing I see, or do I need to hold it for a big Van Cleef, for instance? 
+
+A lot of those questions become moot when I can generate a new minion out of thing air every turn. I'm just expressing my opinions here; I enjoy the occasional discover card and think it's a great mechanic, but Priest, Rogue and Mage in particular have gotten so out of control with this that it destroys the fun of managing your resources well."
+MrMidnight115,5,"Craft these in golden boys, it’s going to 5 mana a month from release"
+Espacode,4,Daily reminder to drink milk. Never run out of calcium
+GimliTheMadLad,479,Finally a counter to 1 million armor druid
+MunrowPS,309,How did the shudderwock get charge?
+MrEntropy44,125,Kudos to Mark for his dedication. I can't even fathom losing hundreds of games to pull off these wonky combos. It would break me.
+AchedTeacher,127,i had no idea how the crazed alchemist + double battlecry combo worked. i was afraid it would just keep the stats as is.
+ravenpt,73,"Oh, hey Mark."
+PropaneSquid,19,"I love your videos, how long does it take you to come up with a new combo?"
+Vergred,13,We need a code for this deck XD
+,11,Are you winning son?
+Fishtails,8,"He just put the video up.
+
+https://youtu.be/QZ5ZueRGprc"
+Vskg,4,"Alright, deck intro time."
+NoShameInternets,5,Am I missing something?  That was 500k.
+skretter,4,Snicker snacked
+KolaDesi,5,Finally a deck against armor druid
+madmimez,4,This is cyber bullying if I've ever seen it.
+enddream,3,I have no idea what happened. How did he do that?
+Mattrap,3,This is the new toast right? the fun crazy combos with a dash of memes?
+Omgkd,2,Holy shit 😂
+Dontyouclimbtrees,2,Killing his minion was just adding insult to injury lol
+kingmoney8133,2,Mark always managing to impress Reddit with new and creative combos
+SquiddyHS,2,You monster. That man had a family.
+WLMammoth,599," Just finished my complete set tonight. I've probably spent 5k over 7 years to do it, hard to say if it was worth it. It could be done for cheaper now that all rarities roll uncollected. I also didn't realize you could still buy Wild packs for the first year of Wild, if you logged into Blizzard instead of the game directly, so I crafted many of the cards I was missing from the oldest sets."
+MetaBreaker25,381,Damn you aint gonna be happy when the new expansion drops! just kidding nice job!
+Shamalanr,176,"5k eh? Well it's only money. As long as you feel the sense of achievement and you're mentally and physically healthy, that's all that matters in life."
+Gamagosh,62,"also almost there, 23 cards left :)"
+Balbuto,27,Now you can finally play the game
+P-00302_18,26,Show only golden cards!!
+in_a_land_far_away,21,Congratz dude its not about the money it's about all the fun this game has given you over 7 years and that seems worth it to me:)
+DJisNotGay,17,Yeah that’s cool and all... but have you tried this new BATTLE ROYALE called BATTLEGROUNDS? Inspired by hearthstone.
+Herzatz,14, Nice Pokédex bro 🤜
+rexarski,10,"Congrats! But from my perspective, Hearthstone has taught me a lesson about life that sometimes you have to embrace imperfection although you could aim high at the beginning. And I’ve experienced a lot of up and downs through these seven years, college, graduation, breakup, work and so on. I’ve seen myself deviating from whom I want to be and to be honest, harder and harder to complete the card set. Life moves on and I realize not completing this set is no big deal in the end. But truly, see others reaching this goal really gives me some satisfaction too."
+AlchimisteR,6,"Gratz bro, as a collector myself (golden legendaries), that seems amazing.
+
+You sure are ready for the new game mode!"
+AnyNamesLeftAnymore,4,And here I am where overwolf just crashed because it was embarrassed about being wrong about how many cards I had in AoO before my next guaranteed legendary.
+jonslashtroy,4,"I used to have this a few sets ago.
+
+It'll feel really dumb when you're doing other things."
+SliM9230,3,"Congratz ! I know someone that is excited about the upcoming achievements  ! I also have the entire collection, been playing since day 1 and i've spent something between 3-4K."
+eddmario,3,"Fuck, it's been 7 years already?"
+LabTech41,2,TIL typing 'missing' can isolate the cards I don't currently have in my collection.  Upvote for that alone.
+spoqster,2,"Nice! But just how much $, that’s the question...
+
+I just bought 60 ulduman packs cause I needed a legendary and was missing many epics anyway, so it was more efficient to purchase than to craft. And that just reminded me how expensive this stuff is. I payed 70 EUR for 1 legendary, 14 epics and 3k dust. It just seems so much money for so little return."
+Lichbingeking,2,">I've probably spent 5k over 7 years to do it
+
+In what currency?"
+Ben_Tobith,2,But not golden?
+ANiceCitrusFriend,3,f2p btw
+czhihong,1,"**[Flesh Giant](https://i.imgur.com/Ipqxk3d.jpg)**
+
+**Class:** Priest & Warlock
+
+**Card type:** Minion
+
+**Rarity:** Epic
+
+**Mana cost:** 8
+
+**Attack:** 8 **Health:** 8
+
+**Card Text:** Costs (1) less for each time your hero's Health changed during your turns.
+
+**Source:** [Tierras de Fuego](https://youtube.com/channel/UCUdBSSnattvMl4CAGgNSQpg) (LATAM YouTuber)
+
+---
+
+**[Card Library Link](https://playhearthstone.com/en-us/cards/59585-flesh-giant)**
+
+Flavour Text:
+
+>	“A BIG mistake.”"
+Kaleith,1371,Turn 2 Mad Bomber into triple self-hit new meta
+VeegAnWatEr,795,I like the life change theme for warlock/priest. Very cool
+Byqoo,453,Cross the new giant off the bingo guys
+dayarra,275,"what is this, kill it with fire."
+mcphilthy,113,It feels like Scholomance just went from PG-13 to Rated R.
+Introman_18,96,"what an ugly boy, love it"
+Benjiboyy,69,The madmen did it. They made \[Spreading Madness\] viable.
+Makkara126,61,Lots of Priest-Warlock cards today.
+nab1af,50,Not sure if it's gonna see play but this will be really annoying being generated by Priest Gala
+MorningPants,37,Naming it now: the Pain Killer archetype.
+Careidina,37,"""No! You killed Stinky!"" *sniffle* ""You pay!""
+
+""Precious?! No!"""
+ApostleWyald,22,"Spookiest art so far. This goes in a self damage zoo deck maybe, too bad for the antisynergy with hand of gul'dan/discard package."
+naterichster,24,"So turn 5 8/8 if you tap every turn in warlock? It's ok. Mountain giants came down in 4 and 3, not sure if an 8/8 that does nothing on 5 will be enough in today's meta."
+tankertonk,16,Would it be weird to think this is a good zoo card? Becuase this does not just work with life tap but any minions who deal damage to you. If you can get at least 2 flame imps and a tap and what you have is a better sea giant for zoo
+ahavsb,12,Evenlock is gonna be insane with this and the other dual class priest/warlock card. So excited for this.
+otto4242,11,"So... [[Spreading Madness]] makes this really cheap nearly instantly, eh? Interesting."
+jyokia,11,"This cost reduces while in deck, right?"
+Dragonpuncha,9,"So now we are just missing the common Priest/Warlock card and so far all of them seems better in Warlock.. 
+
+Not that surprised, but I really hope the common has something to do with self damage. That is one thing priest truely needs to make this work.
+
+Edit: Does anybody know if duel class cards can be gotten from discover and random effects like Priest Galakrond. Because they seem pretty good to get randomly."
+RedWolf807,4,So this art is allowed but not Jaina's juicy funbags?
+czhihong,1,"**[~~Hunterace~~ Ace Hunter Kreen](https://i.imgur.com/MLK9dvY.jpg)** (/u/cgsongbird [didn't lie](https://www.reddit.com/r/hearthstone/comments/fni3d9/new_hunter_rare/fl9tjf4/?context=3))
+
+**Class:** Demon Hunter & Hunter
+
+**Card type:** Minion
+
+**Rarity:** Legendary
+
+**Mana cost:** 3
+
+**Attack:** 2 **Health:** 4
+
+**Card Text:** Your other characters are **Immune** while attacking. 
+
+**Source:** [Hunterace](https://twitter.com/HunteraceHS/status/1286254959168806912) (2018-2019 Hearthstone World Champion and streamer)
+
+---
+
+**[Card Library Link](https://playhearthstone.com/en-us/cards/60003-ace-hunter-kreen)**
+
+Flavour Text:
+
+>	This grandmaster marksman loves winning tournaments and eating a bit of ice cream."
+ziolxxx,2129,ME GO... TRADE?
+BryceLeft,1514,I couldn't/could barely tell it was a dual class card
+FieryGlacier,843,Hunter really benefiting from their pairing with Demon Hunter
+AntonDeMorgan,593,"This is the type of card you'd get criticized at on custom hearthstone because ""it's too strong and would never see print""."
+GanGtoni,444,What the fuck?
+egbs2,412,i dont know how but im sure this wont be balanced
+deadlyavo1,375,No prizes for guessing who revealed this one
+visorian,344,Screaming while using a bow is silly but it's peak demon hunter.
+Normalg,338,Thank you Lord Illidan for giving us regular hunters such a card.
+Percinho,176,I read this as Ace Hunter Karen at first and wondered quite what her battlecry would be.
+czhihong,104,Hunterace is so good he even provides.... herd immunity.
+Yardsake,86,Face is the place so this is pretty much do nothing.
+ThinkFree,74,Commanding Shout on a stick!
+TEnOTT,31,Be careful for the priests. Your Kreen can give them the best Soul Mirror chances.
+DrKuro,25,So both minions and your Hero are now immune when attacking. And this is an Odd card. And Demon Hunter. An aggressive push towards tempo - because Hunter and DH needed it
+Frontol,18,hope to find this for the free 1600 dust
+asian-zinggg,16,So DH already has a pretty solid early game curve and now they have the ability to have complete board control in the early game without giving up real significant tempo. Even Hunter will love to have this. I am not looking forward to this.
+michuf96,13,"Such a strong card in minion heavy meta, allows you to trade your minions for free."
+Tempo-Value,16,This is insanely powerful
+MhuzLord,480,Freaking brutal
+theolentangy,437,"I’ve said it more than once in this sub, DH is just a better, and frankly more mechanically on point rogue. It’s tricky, plays cards in the correct order for value, and attacks regularly and often bursts for lethal. This is just the next in a long line of cards that originally were rogue cards."
+PuffballsUnited,142,"You can run, but you can't GLIDE!"
+esdr4gon,101,"HAHA,
+
+I can literally picture the rogue running away on the ground with a Demon Hunter gliding above him at twice the speed laughing before he swoops down and ...."
+water2770,80,"It isn't an inherent upgrade. Heck in aggro mirrors you could accidentally easily give your opponent cards as well. Plus to effectively draw 4 cards your hand has to be empty. Plus to effectively draw 3-4 cards the Outcast has to be done which again isn't inherently good. 
+
+Add in mulliganing your hand isn't inherently good and it isn't strictly better"
+cosmicglitch,81,The difference is rogue doesn’t start with 0 cards when they play sprint a rogue playing sprint could end the turn with 4-10 cards in there hand a demon hunter will just have 4
+lampent51,35,"* **Virgin Sprint** \- Huge tempo loss for card draw, powercreeped by Candle Breath (which even then doesn't see play), you should honestly just use the galakrond + togwaggle package to draw for cheaper and have the cards cost much less, never saw use since the Preparation nerf, the only way you're seeing this if it was cast from Yogg Saron (only ever overdraws or even fatigues? disgusting), nerd in the artwork's probably fleeing from battle to get those cards.
+* ***Chad Glide*** \- Cheap card draw, combo disruptor, absolutely destroys handlock (flavor for a demon hunter card to be best against a demon), the r/customhearthstone card everyone wanted and then some, if Yogg Saron casts this it gives you the handspace for more value and protects you against fatigue (against say, Sprint for example), demon hunter in the artwork is gliding majestically through the skies (let's see a rogue try doing that)."
+MrRgrs,25,"It's a cheaper Sprint that-  
+fucks your opponents day up."
+Byeah21,18,people are acting like heavy draw that completely fucks all control decks for 4 mana won't be played.
+krikites,7,"Yikes, all my mage value is going down the drain"
+srnava,8,It's not the same dude
+SloppyinSeattle,6,Everyone has been complaining about aggro / tempo DH... so let’s give DH the best aggro draw card of all time!
+Freaky-sharkey,8,Remember when they deleted cold light oracle as it fucked with your opponents hand too much? Also this now exists.
+sweetchristmas,5,Lol this is a terrible comparison
+Unfa,5,"Sprint ADDS 4 cards to your hand without messing with the combo opportunities you have.
+
+Glide replaces 4 cards in your hand.
+
+Different card for a different class with different mechanics.
+
+Sure though, compare everything side by side because this is a homogenised game where everybody has the same strengths and weaknesses."
+Teardrith,4,Would sprint even be good at 6 Mana today?
+Psycho_Tropic,5,"This card is overrated, when was the last time you saw a demon hunter with an empty or near empty hand? I could be wrong, but this card is not going to be nearly as warping as people think."
+Chomajig,5,If this card isn't busted I will craft a golden millhouse
+Maym_,5,"Yea honestly I’m about done with this community attitude. This card is practically unplayable on ladder. You would have to be playing hyper aggressive to want this - not affect the board 4 mana triple conditional effect. Great in tournaments, good for a hyper aggressive deck that doesn’t exist, terrible in other archetypes, and terrible against aggro. If this was out now it would see 0 ladder play. Like seriously, when is the last time a 4 mana card that didn’t effect the board see play? Also, if hyper aggression becomes popular (which again is the deck that wants this) then it becomes even worse in that meta. You aren’t going to be just drawing 4 cards and shutting off your opponents 10 card hand like everyone seems to think. This card seems much much worse than divine favor for example, being someone comparable in effect but costs an entire 33% more and basically needs to be outcast. I’ve never cast this card, so I could be wrong. Then again nobody has cast this card, and many are already flaming blizzard. Does anyone actually test cards themselves?
+
+Posts here are saying blizzard you destroyed the game. What? This isn’t a new effect, it’s been done and definitely doesn’t invalidate control or combo (which is just ridiculous to say). As well as hand disruption being a large mechanic in mtg this effect is basically from Pokémon, look up the card, “judge.” In Pokémon this effect is good, cards like N and Marnie are format staples, but they dont cost 4 mana. These are all different games but the point is while not extremely fun, this is not even close to game destroying. Yea getting thoughtseized isn’t fun either, but generally HS has extremely minimal amounts of disruption. What’s more noteworthy to me is this is the first time I see HS using other tcgs design, and not the other way around which has been going on for years. That is interesting to me, there are a lot of things hs could pick up from other games.
+
+The people (maybe I should say children) on this sub are loud and myopic. All I see is complaining and memes. Want 2k karma? Make a meme allowing people to complain. I understand I’m complaining now, but seriously, last week it was lightning bloom. This is the attitude I expect from LOL, not HS. Is spoiler season really just complain before the cards come out season? How much sense does that make?"
+GearyDigit,5,Cards printed half a decade after first set are stronger than first set upboats to the left
+ImLuuk1,1,"**[Star Student Stelina](https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f9a8ac360e6b2233f472b7939b629e3a42153eb2cd99a73103b5f03311f3da4d.png)**
+
+**Class:** Demon Hunter
+
+**Card type:** Minion
+
+**Rarity:** Legendary
+
+**Mana cost:** 4
+
+**Attack:** 4 **HP:** 3
+
+**Card text: Outcast:** Look at 3 cards in your opponent's hand. Shuffle one of them into their deck.
+
+**Source:** [PlayHearthstone Instragram](https://www.instagram.com/playhearthstone/?hl=en)
+
+---
+
+**[Card Library Link](https://playhearthstone.com/en-us/cards/59395-star-student-stelina)**
+
+Flavour Text:
+
+>    Cheating is just using your resources wisely."
+Murthogg,1285,"Really becoming a disruption class eh ? I'll love playing it, ill hate playing against it. 
+Tbh i wish the sabotage theme would got more to rogue but alas"
+Noggenfager,615,"Disrupt Demon Hunter, lets go"
+AllDogsGoToDevin,247,"So this essentially removes a card from you opponent’s hand....
+
+
+This card is almost always useful when outcasted."
+FieryGlacier,192,Demon Hunter really hates combos huh?
+quacak,166,"She’s much less “raising her hand” and much more stealing from mine, but whatever."
+SimpleSky,153,"« I want to play control ! »
+
+
+« I want to play combo ! » 
+
+
+« I want to play ! » 
+
+DH : « Say what now ? »"
+egbs2,119,it feels like they printed this card just because they can. and now they gonna watch us trying to fit in a deck
+mrglass8,77,"Blizzard: We want to give each class it's own identity, with clear strengths and weaknesses
+
+Also Blizzard: New class! It's good at card draw, face damage, removal, board clears, healing, tokens, silence, and demon synergies
+
+Also Blizzard again: Oh yeah, it's also good at hand disruption, and it has card stealing like Priest too!.
+
+What is DH's weakness supposed to be again?"
+Gulruon,76,"Are you fucking kidding me, with this and Glide I think it's safe to say Illidan has murdered the balance team and taken over the job."
+Lore86,50,Gah.. I feel the urge to overreact!
+SyntheticMoJo,42,Wow... they kept disruption intentionally away from HS because it ruins fun. And now disruption seems to be the only visible theme for DH beyond beeing ovepowered.
+KaledaSavage,41,Imagine having fun
+writesaboutstats,32,Thank goodness it's even costed.
+swimmerboi-7,34,Demon Hunter’s new theme is opponent hand disruption now I guess
+UserPuser,31,Control players on sucide watch today
+Mediocrates_,26,Demon hunter is becoming just as much anti-combo as warlock now. I like it.
+ThrallingHS,26,They are pushing DH in an even more annoying direction...
+Jsimb174387,19,"Fuck me I thought they decided cards with massive disruption effects are bad for the game 6 years ago
+
+Well I guess demon hunter is supposed to be op"
+Wannabe_Irishman,20,"Another day, another card that fucks with your hand. One can only hope DH players barely run this, hand disruption is a cheap tactic."
+Durpishhh,1409,It’s troll cards added by devs for fun but shouldn’t be found I believe.
+D0nkeyHS,531,Here are some codes with similar cards (posted separately for mobile)
+FatAssInLatin,253,I wish my dad has the same card text
+SquareOfHealing,147,What is Enrage??? A new keyword? A cool new keyword just like Charge and CAN'TBETARGETEDBYSPELLSANDHEROPOWERS?
+SENDME-YOURNIPPLE,97,Cool! What’s the code?
+Cyber_Sandwich,46,"Wait, does that mean he can never go below full health? 
+
+- If he goes below full health, he's enraged.
+- If he isn't enraged, then he must be full health.
+
+""Ping damage? I don't know what you're talking about."""
+TSpoon3000,42,.tsoc eht rof stats dooG
+Alantheballan,31,"Bad stat allocation
+
+6/7 is way better"
+andeschan7,35,good stats for the cost
+MegaMetagram,19,"Full list of all credits cards here:
+
+  
+
+
+https://hearthstone.gamepedia.com/Credits_card"
+prezuiwf,18,"Ha, that card doesn't exist. I know that because they got rid of the Enrage keyword."
+AllGlory_HypnoToad,7,"Shouldn't this be:
+
+While damaged: Just kidding! He never while damagedes."
+fizzymcdang,4,Looks like Lemmy from Motörhead
+Macheesey,3,He has some pretty good stats for that cost
+K4312PL4YZ,2,Where do you enter the deck code??? 🤔
+ElHaubi,2,Rego!!!
+aimovuorio,2,too op it counters ogre
+MetaBreaker25,2,Still better than purify
+littledingusbigbrain,1,This is amazing. Where did you get the code from?
+your-average-person,1,Does it have good stats for the cost?
+czhihong,1,"**[Archwitch Willow](https://i.imgur.com/CJjjG9j.jpg)**
+
+**Class:** Warlock
+
+**Card type:** Minion
+
+**Rarity:** Legendary
+
+**Mana cost:** 9
+
+**Attack:** 7 **Health:** 7
+
+**Card Text: Battlecry:** Summon a random Demon from your hand and deck.
+
+Notes: 
+
+-	Based off [Willow](https://wow.gamepedia.com/Willow) in Desolace. [Also probably a [Dark Willow](https://villains.fandom.com/wiki/Dark_Willow_Rosenberg) reference]
+
+-	Dev comment: Willow actually has a disdain for teaching but Demonology gives her the opportunity to hang out with her favorites.
+
+**Source:** [Inven](https://www.invenglobal.com/articles/11755/archwitch-willow-exclusive-card-reveal-for-hearthstone-scholomance-academy) (Korean gaming site). Gameplay video embedded. 
+
+---
+
+**[Card Library Link](https://playhearthstone.com/en-us/cards/59252-archwitch-willow)**
+
+Flavour Text:
+>	One of the demons will do all the work while the other gets the same grade."
+Mainior,1209,Good demons are hard to find
+PushEmma,504,This card is totally oppresive to the waifu meta
+deadlyavo1,453,Hmm This feels like you’d want to run it in a big demon deck with kanrathed to re summon them but I really hate the anti synergy with kanrathed prime.
+Breatnach,183,"Cheating out high cost minions is back on the menu, boys!"
+Jack_811,93,"Ooooh this is really interesting, it looks like we’re getting some big demon support in standard with this and kanrethad?"
+KodaanUnstoppable,80,Is no one gonna point out that this is a reference to Willow from Buffy the Vampire Slayer?
+tsukaimeLoL,46,Seems like a great addition to Reno Warlock in the wild format
+ahavsb,34,This sounds amazing but there’s literally no demons that are currently worth playing with this card. If big demons like voidlord are introduced this may stand a chance but as for now we only have enhanced dreadlord which is fine but just one more big demon is needed for this to consistently summon something from hand and deck.
+Airihan,16,seems a bit too slow
+MidnightQ_,12,"This is such a card that feels like it exists for several years already, only with minor altered stats, names and artwork. Very uninspired effect for legendary too."
+JThor15,10,Love the art.
+David_Viion,8,"You can find play video here
+
+https://www.invenglobal.com/articles/11755/archwitch-willow-exclusive-card-reveal-for-hearthstone-scholomance-academy"
+Nandopp,6,Ez cube lock in wild
+Lexeklock,7,"Problem with this card is it is anti synergistic with the deck it is trying to be played in.
+
+A deck trying to cheat out big demons will want to have said big demons in the deck (logic right ?) , that means we either run a lot of big demons , or only a few.
+
+If we run a lot , we risk having a bad hand with no time to play those minions , if we dont play enough , we will have already played those demons before we draw this card.
+
+And even if we find the perfect balance , the question will still remain : what the hell is our win condition ?  Quest warlock wins by burst , galakrond warlock wins by tempo .
+
+If we are to make a control warlock , what will then be the win condition ? This card is easy to answer considering it is 9 mana.
+
+Jaraxxus is long dead even though i love the guy.
+
+The reality is : if this is supposed to be played in a midrange deck , then we dont have enough support for it , and galakrond warlock is a better midrange/tempo deck.
+
+If this is to be played in a control deck , then we re better be given a damn good win condition ."
+Anti-DenseMan,6,Best girl 10/10
+Taxouck,6,Hahaha this is awful.
+_Rak,3,"As said previously that's too bad it antisynergises with Primus Kanrethad. The card seems strong but filters out good end-game options from your deck, which could be a problem for control... We'll see but I don't think this is very strong"
+water2770,2,"In a way it's comparable to Dragon Queen Alextraza. 9 mana minion with 2 fewer stats, and you get 2 minions on the field for free. On one hand a little worse because the high roll is a lot lower, but on the other hand you get to decide what the high and low rolls are. Depending on how the deck is built the lowest roll is not having any demons in the deck by the time you play this card which probably isn't going to be likely. 
+
+Big question for this though is what demons are you playing with this gal?"
+PoorlyWordedName,3,Does this seem pretty meh to anyone else?
+ImLuuk1,1,"**[Disciplinarian Gandling](https://d15f34w2p8l1cc.cloudfront.net/hearthstone/70327093b1a7c56e22df8e8afe1854f53422d6e808bc7c44cd04daf9dc021c8d.png)**
+
+**Class:** Priest/Warlock
+
+**Card Type:** Minion
+
+**Rarity:** Legendary
+
+**Mana Cost:** 4
+
+**Attack:** 3 **Health:** 6
+
+**Card Text:** After you play a minion, destroy it and summon [a 4/4 Failed Student](https://media.discordapp.net/attachments/377182938896269312/735546002479513611/577be28d897853e587b78b503aeccc9c917a6dab3492446e53f0ec64f2ec7cc9.png)
+
+**Source:** [Kibler Reveal](https://t.co/Q9ZZMcWdoj?amp=1)
+
+---
+
+**[Card Library Link](https://playhearthstone.com/en-gb/cards/59623-disciplinarian-gandling?set=Scholomance-Academy)**
+
+Flavour Text:
+>""He doesn’t grade on a curve, but on a sharp spike instead."""
+WhiteWidow0421,1472,"Hey guys hows it going, Disciplinarian here."
+Rhovan22,614,"Wisp new meta!
+
+EDIT: Kibler did amazing (not surprising) in the reveal video found here: https://youtu.be/NgXwE3vc3ms Figured I’d edit that in since OP didn’t give Kibler credit for being the one to reveal it."
+Normalg,491,This is Amet tier. So good.
+stonehearthed,262,This feels like the most OP card revealed so far. Personally I don't like *must remove* minions with such upsides and premium stats.
+PupperDogoDogoPupper,258,"* Very solid stat-line for a minion with an aura mechanic. 
+
+* Very strong aura effect. 
+
+* In a class that can capitalize on the aura very well.
+
+**Yup, it's Gandling time.** 
+
+This will definitely see play in Lock. I'm a bit more skeptical about it seeing play in Priest. Priest still needs a good card draw to make me excited for this card. We'll have to see what kind of options they get."
+ziolxxx,112,"It's like Tekhan but not only for lackys. Also, very good stateline!"
+Heisenberg_USA,72,Greatest token/zoo legendary card ever.
+michuf96,58,This card is INSANE. Staple in zoolock for next 2 years and maybe good enough to make tempo priest finally good deck.
+CaptainAlphaWalrus,41,Basically quest rouge for priest as long as it's on board. But more importantly deathrattles
+Kwijiboe,24,"Oof... Paint it purple, boys."
+asian-zinggg,15,"Ah this makes the Egg we just got for warlock much better. Not only that, but now your 1 cost minions in zoo aren't necessarily as weak in the late game. You still have one last hoorah with Gandling to make a wide board. 
+
+I am curious to see what imaginative things priest can come up with. These seems like an insane combo enabler. Especially when you can reduce the cost of cards in hand. Beyond that, it would still be very good in a tempo priest. Too bad they don't have any card draw so that probably isn't happening.
+
+Other than that, it's 6 health is very nice. Much higher chance of sticking on turn 4 to set up an insane then 5."
+DeGozaruNyan,14,By father of dragons and the white fluffy dog! This is my favourite revealed card by far. I want to make a deck with this and Terron. Both utulize the same kind of minions for strong effects.
+quacak,10,Eggciting for Failed Student Warlock
+AceAxos,7,"Hmm maybe a lackey deck for warlock? I know Tekahn is there but maybe this takes it's place? Also insanely good for death rattle zoo lock to get the eggs and stuff.
+
+Don't know what priest wants this for though."
+Agentleman89,7,"Caverns below is back. Great synergy with token zoo decks. Too bad it’s play, invoke won’t trigger it."
+misqueerllaneous,6,"egg priest, new meta"
+Mainior,6,I didn’t expect this approach for the priest/warlock dual class card
+EleaticSongs,6,"insane in egg/lackey zoo, doubt priest plays this"
+FieryGlacier,6,Cubelock Buff?
+ImLuuk1,1,"[Sphere of Sapience](https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6a5aff02ae1be0c38bf68cc468a7c5a520caaa00053cacc9ccce3715a62c3c86.png)
+
+**Class:** Neutral
+
+**Card type:** Weapon
+
+**Rarity:** Legendary
+
+**Mana cost:** 1
+
+**Attack:** 0 **Durability:** 4
+
+**Card text:** At the start of your turn, look at your top card. You can put it on the bottom and lose 1 Durability.
+
+**Source:** [Email sent out via PlayHearthstone](https://twitter.com/Celestalon/status/1286718204530720768)
+
+---
+**[Card Library Link](https://playhearthstone.com/en-us/cards/59151-sphere-of-sapience)**
+
+Flavour Text:
+
+>This is what it sounds like when spheres scry."
+sasukekun1997,1258,"The madmen, they did it. Neutral weapon. 
+
+Rip wild twig broke"
+MehicTUH92,1171,"""At the beginning of your upkeep, scry 1"""
+The1Ski,1007,"Yes, neutral legendary weapon."
+FieryGlacier,364,Anyone else loving this expansion's creativity?
+Fvckyouthatswhy,231,Scry?
+bionix90,154,Hol' up a minute. I was downvoted on all my neutral weapon ideas and told by r/customhearthstone that there could never be a neutral weapon because it would make [[Twig of the World Tree]] busted. Was I lied to?
+Simspidey,137,"AHAHAHAHAHA
+
+&#x200B;
+
+Remember how every single custom druid weapon has been shot down because ""u cAnT pRiNt DrUiD wEaPonS bEcuz Of TwIG""   
+
+
+eat shit reddit"
+Marraphy,122,Sphere of Topdecking
+ahavsb,84,SO MANY COOL CARDS ALL COMING OUT AT THE SAME TIME
+GoodJobReddit,81,"Wow, A Neutral weapon! This is gonna pave the way for a lot of possibilities. Plus love that it's a sphere, hopefully they are more willing to make staffs and tomes and things weapons in the future."
+jyokia,70,So...this essentially lets you get mulligan your next 4 draws if you want? Am I understanding this correctly?
+Tengu-san,56,This is so much MtG that makes me giggle. Love it.
+_Coolton_,61,"Holy cow, a neutral weapon that helps with draw? Nice"
+Divinspree,22,It's probably the closest thing to an Artifact - Equipment we'll ever gonna get in Hearthstone.
+albeartoz_hang,16,We MTG now boys
+Wenpachi,17,"**Sphere of Sapience**
+
+\[Legendary Artifact\]
+
+At the beginning of your upkeep, put a wisdom counter on Sphere of Sapience and Scry 1.
+
+When there are four or more wisdom counters on Sphere of Sapience, exile it."
+Unbug,12,Acidic Swamp Ooze has entered the chat
+arcanition,13,"Hearthstone: hey mtg can i see ur homework for a sec?
+
+MTG: yeah sure dude just don't copy it
+
+Hearthstone: o cool what's this ""scry"" thing??"
+yoloswaggasaurus420,12,Going to be exciting to see how this neutral weapon plays out.
+tengboss,311,Rip mobile players.
+Leg__Day,214,"Sorry, the Transfer Student gives a dual class card of whatever class you happen to be playing on the new Scholo board?
+
+Also, what's the plague effect? Other than that this has been the best and easiest way to memorize the effects. Well done. Saving this."
+NateWolfeHS,44,"This is helpful Ray, thank you!"
+BrokenTeddy,22,...and poisonous
+MattseW,15,"The Cathedral on the Stormwind board has a paladin trainer inside. I think that works better than associating with the Griffin. This is gonna help me remember, thanks for the post!"
+Rounder257,13,seems pretty stupid that all these will eventually amount to 'discover a card from this set' once this card rotates. Don't know why they wouldnt keep these unique effects
+Nandopp,10,Can you make a wild one as well :) thank you for this
+yujinee,9,That's a pumpkin?
+re-D,8,this is some exam cheat sheet type shit
+Huntzerlindd,7,And the mummy one wasn’t a stretch?
+Augrills,7,The plague one makes 0 goddamn sense. The guy is holding a plate with coals in it. What does that have to do with anything?
+Mr_Phawks,8,"Where can I get the full art for this? Haha, the wiki's seems to be not a good res."
+Tamal_Kolkata,5,Waiting for the wild one. Good job on this one. So far this seems the easiest way.
+Yadeehoo,6,"But aren't plagues and reborn both from Uldum ?
+
+There are 2 different sets of the same expansion ? I'm confused !!"
+AnyNamesLeftAnymore,4,"What's the point of memorizing it since you can't choose the board? 
+
+Really comes down to 'is this list of abilities worth putting this card in your deck'."
+MillenniumDH,3,"Does HDT tell you the effect yet? If so, I don't think anyone using it would need this."
+TheReal_ScottTheBOT,4,"Then this is how it work? ,I thought his different abilities come from your situation on the board ( for exemple when your opponent have 2 hp remaining, he becomes ""battlecry: deal 2 damage""
+Any ways it makes sense tho ..."
+LandArch_0,3,"Awesome idea but you got it a little messed up in some parts:
+
+- Uldum: There are mummy eyes in the door on top right, that was easier than what you wrote.
+
+- Dalaran: If you click on the scrolls on top right, the EVIL symbol will appear, that were Lakeys are from.
+
+-Strangelthorn: It also has stealth the creature you are not seeing on top left and that growls everytime you click it's eyes.
+
+The rest is fine. I would've said that on Pandaria you give +1+2 like growing vegetables with the water."
+urgod42069,3,"“I bet they’d get +1/+2” LMAO
+that ones way more of a stretch than the gryphon to me.
+I love this though!
+I’m the type that has to do the ABC song whenever I need to remember a letter so this helps lol"
+somabokforlag,2,These are great! I often memorize stuff with visual images so this will def help me
+NonmechanicalPopcorn,436,best pack i ever saw
+Mannynix,90,"Oh wow i really want that al akir in Gold, even tho he's useless now :/ nice luck btw"
+boomstastic,79,Enjoy your 4335 arcane dust
+oh_no_its_the_cups,69,"I’m pretty sure this is actually the best pack ever recorded. The current record holder did not have two epics, if I remember correctly."
+TheNinjaArtist,54,"what the actual shit
+
+just when i thought that pack luck couldn't get any better......"
+secretOPstrat,13,"People saying that is the best pack ever, this pack above disenchants for 2900 dust while this one: 
+https://old.reddit.com/r/hearthstone/comments/gj8wbc/time_to_buy_a_lottery_ticket_i_guess/ 
+
+disenchants for 3720 dust. There's prob better packs than that too ofc, but this one although an amazing pack is definitely not the best ever."
+Davchrohn,6,HOLY SHIT. This is the best pack I ever saw! Awesome that you got this much luck!
+ToxicAdamm,6,There should've been some kind of balloon drop IRL after you opened that pack and Dave Kosack appears out of the ether and hands you a key to Gadgetzan.
+iluvdankmemes,3,Jesus christ
+Grondaia_Marcia,3,can I have a bit of your luck?
+Estiui,3,What the actual fuck
+Smellend,3,That’s probably the best pack ever opened
+zhafsan,3,I’ve been playing since beta and I’ve never gotten more than one legendary from a pack nor have I had two packs give me legendary cards back to back.
+eLsirius,3,What the fuck
+chnf31,3,Meanwhile i can't open 1 legendary
+18hockey,3,"Alright I'm gonna be *that* guy, there's a good dozen screen recording softwares you can pick from, including Nvidia shadowplay, AMD ReLive, OBS, ShareX, Fraps etc etc"
+Rawtashk,3,You hover over cards about as quickly as Kripp plays cards in battlegrounds.
+DanzigFelida,3,I think i lost luckyness just by watching
+floopedia,2,Amazing pack wow
+IkebeDaBest99,2,That snort
+_LFKrebs_,676,Can't wait to play my libram murloc mech singleton dragon demon spellburst handbuff paladin next expansion
+gingerranger99,252,More librams would be perfect for a school themed expansion
+Srous226,210,Blizzard coining pure paladin was big brain time. Now they can literally print whatever the fuck they want and it still falls under an existing archetype.
+Dyl-thuzad,89,"We don’t need a new class identity, what we need is a consistent identity! We have buffs, give us buffs. We have heals, give us heals. We have Silver Hand, give us Silver Hand. We have very little draw, give us draw!"
+PoorlyWordedName,33,"All I wanted was new LIBRAMS. IN A SET ABOUT AN ACADEMY.
+
+I've played wow there is like 5000 books in scholo. Surely one of them could be a damn libram."
+FishWash,28,Librams and pure paladin were cool
+Mentle_Gen,14,Paladin cards revealed so far haven't been focused on any one identity. Both are just good stand alone cards.
+writesaboutstats,12,Isn't Uther actually pretty good right now with Murloc Paladin? VS rates that deck quite highly.
+jsosue197,7,LMFAOO THEY DO THIS WAYY TOO MUCH
+Gatekeeper1310,8,Spell Paladin Next.
+Mewoir78,7,Im so sad because Paladin have always been one of my favorite class
+AggronStrong,5,"Granted, the one Paladin card we've seen has Spellburst on it which synergizes with big Spells, so that's nice with the Libram deck."
+Drakath2002,4,"Here is me hoping that Bliz looks at Ragnaros Light Lord, Benevolent Djinn, and be like “let’s bomb Paladins with Class Elementals and elemental support, after all Light can be an element too!”
+
+Come on Bliz, if Murlocs can be a Paladin identity so can elementals"
+dahlus,3,"And we already know which is,
+
+TAUNT pally, yay!!!
+
+Pls God, no."
+LGP747,3,2016 shaman: AMATEURS!!!
+Awesome_the_Awesome,1,That made me ROFL
+Tactical_Pause,2,No more librams? Well shit.
+AnyNamesLeftAnymore,1,Just throw in a legendary pirate. Why not? We can do menagerie Paladin.
+Tinheart2137,1,Another burial for the most useless class
+Tinheart2137,1,"But on the other hand, you'll at least get some dust for useless cards that never gonna see play"
+onowahoo,234,I love this format for Hearthstone
+quacak,137,If only Greenskin was a Rogue card for the flavor
+Niqzu1,99,"DRINK UP THE ENEMY, DEFEND GILNEAS"
+cdwols,37,"huh, I always thought it was ""crush the enemy"""
+GiraffeWaffles,15,Why is the y in your overlapping the attack icon instead of staying in the text box.
+WhistlerDan,4,I don't like that this implies that Darius Crowley had sex with a goblin is canon in Hearthstone lore
+Kapiork,3,"Why does it say ""when"" instead of ""whenever"" or ""after""? Does it only trigger once? Or is it just HS being consistently inconsistent?"
+luke-townsend-1999,3,These new cards are ridiculous jeeeeez
+EasyE1979,2,Power creep is insane.
+Kath-two,2,Bomb warrior is going to be stupid now
+wormward,-2,Took me a second
+Yadeehoo,-6,Ooze says hi
+AlectricHS,358,Pretty similar to the ol’ coin + kalecgos combo!
+natpagle1998,265,Honestly thank you for this post before I learn the hard way.
+degolfer222,185,Reminds me of the good ole days of prep coin concede. Good times
+c_otter17,155,"I thought spellburst only triggered once? Therefore the coin will consume it?
+
+Edit: I have been informed I am an idiot and should just keep my plebian casual-playing mouth shut"
+squidyj,92,Just coin first 4Head
+DanVelk,53,Almost just as powerful as my cheating out Kalecgos with coin on turn 9
+Lunarbliss2,24,"Opponent plays Millhouse, you play KT then loop Siphon Soul on KT until full"
+meneldor_hs,8,"Just play the coin first lol
+
+/s just in case"
+leonardodifapri0,7,since when was kelthuzad a nice headmaster of a lovely magic school? i’m pretty sure he was just an oddball wizard that the kirintor hated
+Mainior,5,I talked about this on YouTube around when he got revealed. Get ready for people to start making these fail highlights. This’ll definitely be one of em
+Aloil,3,Does spellburst reset each turn?
+ClivetheGodhh,3,"The ol' Kel, Coin, Concede."
+Melhode,3,"Does Kel'thuzad work with plague? Example: You have 6 mana, play kel and plague. Destroy the enemy minion and summon both kel and the opponents minion that was destroyed. I hope it does not work like that."
+Ojjin,2,"Personally I first saw this card as an anti-token card - instead of just getting your tokens cleared, your opponent now have complete board control as well."
+FuzioNda1337,2,worst will be this and chaos nova. with some other dmg like a weapon equiped so you get a wide board with one big health minion that they cannot resolve it even with 10 mana.
+Downum_The_Divine,2,I can already tell this expansion is not gonna be fun in standard..
+jonasapo,2,You can do it whit a priest destroy all minion whit 5 or more attack to get full board
+eLsirius,1,Kt + brawl is some fucking bs
+Heydoesitwork,1,It's just a mind control with extra steps.
+PepsiColaSodaTTV,1,Coin + Mountain Giant
+SouzannePSN,346,This needs to be a twitch emote
+Zep_Rocko,249,Didn't know you could actually send someone to the shadow realm with hearthstone
+---reddit_account---,143,"I had thought I didn't know any Arabic, but I actually am familiar with the phrases ""Malygos combo"" and ""gg well played"""
+AnyNamesLeftAnymore,55,He's stuck in an 80s sitcom freeze-frame.
+CriticalJump,36,That frame has soooo much meme potential.
+YAMI_KING,14,Wow. That was fast
+Powersoutdotcom,10,Had me cracking up so bad. I'm crying. 😂
+Chainer764,3,ZA WARUDOO!
+byfuratama,3,Reminds me Jackie Chan meme
+saskeR11,1,u/vredditdownloader
+,-158,[removed]

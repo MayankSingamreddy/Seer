@@ -1,0 +1,40 @@
+Hearthstone
+Welcome to the 107th edition of the Tempo Storm Hearthstone Standard Meta Snapshot! Another balance patch is live, and Demon Hunter remains viable. In fact, Tempo Warrior remains the top contender of the tier list, and Tempo Demon Hunter only fell by one position to the top of Tier 2. Neither were arguably hit that hard by the nerfs, though other classes are benefiting greatly from the mitigated presence of the more established tempo decks. 
+
+The featured Tempo Warrior list by Herosfunky reached #2 Legend. This egg variant has a core similar to other Tempo Warrior lists, including the recently nerfed Corsair Cache. However, Serpent Eggs and Teron Gorefiend create explosive early-game starts that allow the deck to pile on damage and end games before they’ve truly begun. Tempo Warrior will likely remain in Tier 1 unless control decks surge in popular before or after the expansion.
+
+Shaman and Paladin are finally finding some semblance of viability thanks to the nerfs against other classes. In fact, Totem Shaman and Murloc Paladin make appearances in Tier 3 in this edition of the Meta Snapshot! It has been a long time since a Shaman archetype has been anywhere above Tier 4, and wiRer surprised many with his aggressive list from the most recent Masters Tour. One totem is all it takes for the deck to snowball into an early win, though the deck struggles to make this win condition consistent enough to see regular play.
+
+Murloc Paladin makes its return to mild meta relevance, now that Demon Hunter, Rogue, and Warrior had their tempo strategies marginally diminished by the most recent balance patch. The deck's strength comes from its good matchup against popular top-tier decks like Highlander Hunter, Galakrond Priest, and Spell Druid. While these are good enough to make Murloc Paladin a Tier 3 deck, its dependence on the early stages of the game to go well is too high.
+
+A more significant success story can be found in Highlander Hunter, which benefited greatly from other classes being nerfed and rose from the bottom of Tier 2 to being the second strongest deck in the meta, joining Tempo Warrior in Tier 1. Highlander Hunter was largely held back by Tempo Demon Hunter in the past, but now that Demon Hunter was nerfed, the matchup is much more winnable. Now the Hunter archetype can punish the slower decks of the meta, such as Quest Warlock, Galakrond Priest, and Highlander Mage.
+
+The nerf to Dragonqueen Alexstrasza affected slower Highlander decks but did not make the archetypes unplayable. Highlander Priest, Highlander Mage, and Highlander Rogue are still holding on to meta relevance in Tier 3, with Highlander Priest seeing a surge in tournament appearances thanks to its strong matchup against Galakrond Priest, and does well against Highlander Hunter on the ladder. While this popularity has not transferred over fully to the ranked ladder, but it is still finding decent enough success to stand out. 
+
+In conclusion, the Scholomance Academy expansion reveal left many players excited for the prospect of a new expansion and potential meta shift, but there’s still some weeks left of the Ashes of Outland meta to climb ranks! We at least get to experiment with Transfer Student, which changes effects depending on which board cosmetic loads for your match. We will give the newbie a couple weeks to settle in to the curriculum before performing an assessment on its viability ona the Standard ladder!Tempo Warrior is an aggressive mid-range variant of Warrior that utilizes its own damaged minions to snowball board states and push tons of damage. Ashes of Outland has helped this variant of Warrior by giving it Bloodboil Brute, a powerful minion, alongside cards like Risky Skipper.
+
+Different lists have used different strategies to achieve their win conditions, mostly relying on powerful tempo swings with Pirates and Weapons to push the advantage created in the early stages of the game. Corsair Cache allows for a buffed version of either Ancharrr, Wrenchcalibur, or even Livewire Lance to help you either clear midrange-size threats or push massive amounts of damage.
+
+Tempo Warrior may have a new shell, but it plays out in a fairly similar manner to those shells of the past.
+
+
+META AND FEATURED DECK (2020.07.20)
+Tempo Warrior remains the strongest deck in the meta once again! I can’t count how many times this has been the case, but I can reassure you—it’s been like this for quite some time. The sheer power of this deck is absolutely insane. The Corsair Cache nerf just wasn’t quite enough for this deck to stop seeing play.
+
+Herosfunky used this variant of Egg Tempo Warrior to reach #2 Legend. The core of the list is similar to most other variants we’ve seen in the past, still including the two copies of Corsair Cache while utilizing Serpent Eggs and Teron Gorefiend to create some pretty explosive early-game starts.
+
+Tempo Warrior is king. How long will it be king? There is always the possibility we see the deck slowly drop in viability if there's a resurgence of control decks that have the potential to stop the deck's reign. If that doesn’t happen, Tempo Warrior will continue to be Tier 1 until Scholomance Academy comes out... but with the right tools, Tempo Warrior could still be at the top. 
+
+Highlander Hunter is a singleton deck that spawned from the Saviors of Uldum expansion, with the addition of Zephrys the Great and Dinotamer Brann. Descent of Dragons added Dragonqueen Alexstrasza as additional support for Highlander decks.
+
+Highlander Hunter is a midrange, board-control deck that aims to stay even or slightly ahead as it works towards its late-game powerhouse finishers in Dinotamer Brann, Dragonqueen Alexstrasza, Zixor Prime, and Nagrand Slam. Dinotamer Brann, Nagrand Slam, and Zixor Prime—as well as some of the other cards the deck runs—function for both offense and defense, so the deck can easily switch roles to respond to its matchup.
+
+Zephrys the Great gives the deck flexibility to get out of any sticky situation or, when played early, further press its advantage. King Krush summoned from Dinotamer Brann—in addition to damage weaved in with Hero Powers throughout the game—is often enough to close out the game versus classes that don't have much sustain, such as Mage.
+
+
+META AND FEATURED DECK (2020.07.20)
+Highlander Hunter finally climbs to Tier 1 in this Tempo Storm Meta Snapshot, thanks to the new balance patch.
+
+Highlander Hunter was largely held back by Tempo Demon Hunter in the past, but now that Demon Hunter has received nerfs, the matchup is much more winnable. The reduced play frequency of Demon Hunter after the patch is of great benefit to Highlander Hunter. Highlander Hunter does a great job at punishing the slower decks of the meta, such as Quest Warlock, Galakrond Priest, and Highlander Mage. Highlander Hunter thrives in a meta where aggro decks are weak, which has seemed to be the case in the first few days of the patch—but that could change as the meta adapts to Highlander Hunter being on top. We may see counters to Highlander Hunter, such as Murloc Paladin or Pirate Warrior, ascend in the tier list.
+
+The Highlander Hunter list featured in this Meta Snapshot is almost identical to the one we featured in the last Meta Snapshot—the version that @gete_HS took to #1 Legend—with the only change being Big Ol' Whelp removed for Bonechewer Brawler. This list helped @pocket_train climb to #4 Legend. Frizz Kindleroost, while not in our featured list, has also been seeing some play in Highlander Hunter after the Dragonqueen Alexastrasza nerf, as Frizz makes the Dragonqueen more playable and gains you some tempo back with your other Dragons.
