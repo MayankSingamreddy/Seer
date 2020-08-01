@@ -24,4 +24,4 @@ for post in nba_subreddit.top("week", limit=20):
 comments = pd.DataFrame(comments,columns=['author', 'upvotes', 'body'])
 
 #saves top 100 nba subreddit posts to csv file
-comments.to_csv('\Users\MayankSingamreddy\Documents\SubredditSeer\nba_subreddit_comments.csv', index=False)
+comments.to_csv('nba.csv', index=False)
