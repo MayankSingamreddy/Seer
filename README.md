@@ -2,7 +2,7 @@
 
 To run this (written for mac, commands should be similiar)
 
-'''
+
 python3 -m venv env
 
 source ./env/bin/activate
@@ -16,15 +16,19 @@ pip install csv
 pip install pandas
 
 pip install textblob
-'''
 
-FILES ALREADY IN PLACE
-EXAMPLE SET TO NBA, CONSIDER HEARTHSTONE (REQUIRES NEW INPUT DATA)
-REDDIT CRAWL CAN BE SET TO ANYTHING YOU WANT IF YOU WANT TO TEST A NEW subreddit
-MAKE SURE TO CHANGE FILE.CSV NAME IF SO
+
+
+
+RedditCrawl can be reused for any new subreddit, just change the filename.csv in TextSent
+
+
 
 
 IMPORTANT: ADDITIONAL USE CASES can be added by uncommenting at the bottom 
+
+
+
 
 Reddit Seer that predicts the validity of user's predictions, as well as measuring the degree of a belief's radicalness.
 
