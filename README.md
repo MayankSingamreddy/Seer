@@ -4,19 +4,13 @@ To run this (written for mac, commands should be similiar)
 
 
 python3 -m venv env
-
 source ./env/bin/activate
-
 pip install spacy
-
 python -m spacy download en_core_web_sm
-
 pip install csv
-
 pip install pandas
-
 pip install textblob
-
+pip install matplotlib
 
 
 
